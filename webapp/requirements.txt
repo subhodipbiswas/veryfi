@@ -1,0 +1,9 @@
+aiofiles
+fastapi
+Hypercorn
+pandas
+psycopg2-binary
+priority
+pydantic
+requests
+sqlalchemy<2.0
